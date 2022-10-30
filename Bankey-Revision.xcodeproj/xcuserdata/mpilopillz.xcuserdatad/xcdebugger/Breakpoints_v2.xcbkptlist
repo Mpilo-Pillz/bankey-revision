@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "31A83B22-BF91-43D8-91D8-E1666F6E2C24"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C81001C-9FBF-4764-AF90-CD808587C131"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bankey-Revision/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "login()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C81001C-9FBF-4764-AF90-CD808587C131 - 18ab89a67fb890d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bankey_Revision.LoginViewController.login() -&gt; ()"
+                  moduleName = "Bankey-Revision"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpilopillz/Development/Mobile/XCodeProjects/Learning/Jonathan%20Rasmusson/Bankey-Revision/Bankey-Revision/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "1C81001C-9FBF-4764-AF90-CD808587C131 - 18ab89a67fb890d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bankey_Revision.LoginViewController.login() -&gt; ()"
+                  moduleName = "Bankey-Revision"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpilopillz/Development/Mobile/XCodeProjects/Learning/Jonathan%20Rasmusson/Bankey-Revision/Bankey-Revision/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "1C81001C-9FBF-4764-AF90-CD808587C131 - 18ab89a67fb890d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bankey_Revision.LoginViewController.login() -&gt; ()"
+                  moduleName = "Bankey-Revision"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mpilopillz/Development/Mobile/XCodeProjects/Learning/Jonathan%20Rasmusson/Bankey-Revision/Bankey-Revision/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
