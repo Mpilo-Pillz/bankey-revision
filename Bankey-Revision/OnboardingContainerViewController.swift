@@ -41,6 +41,7 @@ class OnboardingContainerViewController: UIViewController {
         
         view.backgroundColor = .systemPurple
         
+        // when we have child view controllers loaded on the parent view controller
         addChild(pageViewController)
         view.addSubview(pageViewController.view)
         pageViewController.didMove(toParent: self)
