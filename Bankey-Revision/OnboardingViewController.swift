@@ -39,6 +39,7 @@ class OnboardingViewController: UIViewController {
 
 extension OnboardingViewController {
     func style() {
+        view.backgroundColor = .systemBackground
         stackView.translatesAutoresizingMaskIntoConstraints = false
         stackView.axis = .vertical
         stackView.spacing = 20

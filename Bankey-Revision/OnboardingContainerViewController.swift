@@ -50,7 +50,7 @@ class OnboardingContainerViewController: UIViewController {
     }
     
     private func setup() {
-        //        view.backgroundColor = .systemPurple
+                view.backgroundColor = .systemPurple
         // when we have child view controllers loaded on the parent view controller
         addChild(pageViewController)
         view.addSubview(pageViewController.view)
