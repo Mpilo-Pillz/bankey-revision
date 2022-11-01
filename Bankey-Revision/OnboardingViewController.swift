@@ -28,6 +28,7 @@ class OnboardingViewController: UIViewController {
         self.heroImageName = heroImageName
         self.titleText = titleText
         
+        // we not using story board nor nibs so should be null
         super.init(nibName: nil, bundle: nil)
     }
     
@@ -51,7 +52,7 @@ extension OnboardingViewController {
         label.textAlignment = .center
         label.font = UIFont.preferredFont(forTextStyle: .title3)
         label.adjustsFontForContentSizeCategory = true
-        label.numberOfLines = 2
+        label.numberOfLines = 0
         label.text = titleText
         
 //        "Bankey is faster, easier to use, and has a brand new look and feel that will make you feel like you are back in 1989."
@@ -61,8 +62,12 @@ extension OnboardingViewController {
     }
     
     func layout() {
-        stackView.addSubview(imageView)
-        stackView.addSubview(label)
+//         this phucked me up twice now reaaallll baaddddd
+//        stackView.addSubview(imageView)
+//        stackView.addSubview(label)
+        
+        stackView.addArrangedSubview(imageView)
+        stackView.addArrangedSubview(label)
         
         view.addSubview(stackView)
         
